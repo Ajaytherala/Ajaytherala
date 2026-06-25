@@ -1,5 +1,5 @@
 # 💫 About Me:
-AI/ML Engineer with 4 years of experience & a published researcher building production-grade RAG pipelines, Generative AI, and Agentic AI<br>systems. Skilled in Machine Learning, NLP, LLM orchestration, scalable AWS deployments, and CI/CD Pipelines.
+AI/ML Engineer with 4 years of experience & a published researcher building production-grade RAG pipelines, Generative AI, and Agentic AI systems. Skilled in Machine Learning, NLP, LLM orchestration, scalable AWS deployments, and CI/CD Pipelines.
 
 
 ## 🌐 Socials:
