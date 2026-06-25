@@ -1,5 +1,15 @@
 # 💫 About Me:
-AI/ML Engineer with 4 years of experience & a published researcher building production-grade RAG pipelines, Generative AI, and Agentic AI systems. Skilled in Machine Learning, NLP, LLM orchestration, scalable AWS deployments, and CI/CD Pipelines.
+🔭 I’m currently building production-ready AI systems with RAG, Agentic AI, OpenSearch, AWS Lambda, Bedrock, S3, SQS, and FastAPI. Most of my work focuses on turning messy documents, course content, web data, and user workflows into searchable, reliable, AI-powered experiences.
+
+🧑‍💻 I enjoy working across the full AI stack, from ingestion pipelines, chunking, embeddings, and retrieval tuning to LLM orchestration, prompt engineering, context management, CI/CD, and cloud deployments.
+
+🤝 I’m looking to collaborate on LLM applications, AI agents, intelligent search platforms, developer tools, and automation systems that solve real problems instead of just looking good in demos.
+
+🌱 I’m currently learning more about LangGraph, agent evaluation, multimodal AI, AI safety guardrails, long-context optimization, and better ways to make AI systems scalable, observable, and trustworthy.
+
+💬 Ask me about RAG pipelines, OpenSearch, AWS serverless AI, LangChain, LangGraph, AutoGen, CrewAI, prompt engineering, context engineering, production LLM issues, and why retrieval quality matters more than a fancy chatbot UI.
+
+⚡ Fun fact: I like making AI systems smarter, faster, and less dramatic. I have worked on pipelines that index thousands of courses, optimize Lambda processing, guard against prompt attacks, and help AI apps update themselves without rewriting everything from scratch.
 
 
 ## 🌐 Socials:
@@ -18,19 +28,4 @@ AI/ML Engineer with 4 years of experience & a published researcher building prod
 ---
 [![](https://komarev.com/ghpvc/?username=Ajaytherala&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->## Hi there 👋
 
-<!--
-**Ajaytherala/Ajaytherala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
